@@ -1,0 +1,18 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Docker
+.target/
+
+# Programming languages
+__pycache__/
+*.py[cod]
+node_modules/
+*.exe
+*.out
+*.o
+
+# Vim temporary files
+*.swp
+*~
